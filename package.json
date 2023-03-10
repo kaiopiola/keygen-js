@@ -1,5 +1,5 @@
 {
-  "name": "keygen-js",
+  "name": "keygen-package",
   "version": "1.0.0",
   "description": "Pattern-based key generator",
   "main": "keygen.js",
