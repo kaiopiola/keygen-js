@@ -1,0 +1,29 @@
+{
+  "name": "keygen",
+  "version": "1.0.0",
+  "description": "Pattern-based key generator",
+  "main": "keygen.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaiopiola/keygen-js.git"
+  },
+  "keywords": [
+    "keygen",
+    "key",
+    "pattern",
+    "key",
+    "pattern",
+    "keygen",
+    "kaiopiola"
+  ],
+  "author": "Kaio Piola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaiopiola/keygen-js/issues"
+  },
+  "homepage": "https://github.com/kaiopiola/keygen-js#readme"
+}
