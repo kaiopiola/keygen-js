@@ -1,6 +1,6 @@
 /**
  * @author Kaiopiola <github.com/kaiopiola>
- * @package keygen
+ * @package keygen-package
  * 
  * This file is part of the keygen package.
  * 
